@@ -1,0 +1,8 @@
+name: PBMC10K
+omics:
+- rna
+- atac
+raw_files:
+  rna: data/processed.h5mu
+metadata_keys:
+  cell_type_key: cell_type
